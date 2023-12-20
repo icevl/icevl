@@ -60,6 +60,7 @@ I am software engineer with 15 years of experience in the IT industry. I started
   <img src="https://img.shields.io/badge/ruby-CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white"/>
   <img src="https://img.shields.io/badge/csharp-239120.svg?&style=for-the-badge&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/rust-000000.svg?&style=for-the-badge&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/php-777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
 
