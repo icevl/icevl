@@ -1,4 +1,4 @@
-<h1 align='center'>Mike Kabanov</h1>
+<h1 align='center'>Hi there!</h1>
 
 <p align='center'>
   <a href="https://t.me/mikekabanov">
@@ -6,12 +6,6 @@
   </a>
   <a href="mailto:kabanov.mike@gmail.com">
     <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/icevl">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/mikekabanov/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
@@ -41,10 +35,6 @@ I am software engineer with 15 years of experience in the IT industry. I started
 - Developed public city-wide Wi-Fi network using FreeRadius, Wi-Fi routers, and VLANs
 - Created custom login pages with OTP authentication
 - Worked with technical team to design network topology and improve network performance
-
-## Languages
-- English
-- Russian
 
 ## Interests
 - Learning and exploring new programming languages and tools
@@ -90,7 +80,7 @@ I am software engineer with 15 years of experience in the IT industry. I started
   <img src="https://img.shields.io/badge/pm2-2B037A?style=for-the-badge&logo=pm2&logoColor=white"/>
   <img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white"/>
   <img src="https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"/>
 </p>
 
 
@@ -111,4 +101,5 @@ I am software engineer with 15 years of experience in the IT industry. I started
 <h5>Game Engine</h5>
 <p>
   <img src="https://img.shields.io/badge/unity-36566F.svg?&style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/godot-36566F.svg?&style=for-the-badge&logo=godot&logoColor=white"/>
 </p>
