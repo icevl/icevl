@@ -16,8 +16,18 @@
 I am software engineer with 15 years of experience in the IT industry. I started my career at an ISP, where I created high-load services with PHP such as a file-sharing service and a social network for musicians fans. I then transitioned to network technologies, using FreeRadius, Wi-Fi ubiquiti routers, and VLANs to create a public city-wide Wi-Fi network with OTP authentication. Later, I focused on frontend development, utilizing React, Redux, and mobile development with React Native and Expo. Currently, I work as a team lead at a global VOIP and CPaaS provider.
 
 ## Experience
+### Architect at CPaaS Company
+*(2024 - present)*
+- Developing and implementing IT solutions architecture
+- Evaluating and selecting appropriate software and hardware components for the new CPaaS services
+- Designing reusable services and components to meet business requirements
+- Making decisions on infrastructure and integrating various systems
+- Collaborating with cross-functional teams to ensure successful project delivery
+- Hands-on programming and development of services (GoLang, NodeJS)
+- Managing aspects of both Solution and Software Architecture
+
 ### Team Lead at CPaaS Company
-*(2019 - Present)*
+*(2019 - 2024)*
 - Manage a team of developers 
 - Foster team career development and mentorship 
 - Collaborate with the product management team to ensure successful delivery of products and features
